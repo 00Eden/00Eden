@@ -1,10 +1,26 @@
-# 👨👨🏽‍💻 Marcos Davi
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-**`Desenvolvedora Java`**
 
-Me chamo Marcos, tenho 20 anos e sou natural do Rio de Janeiro.
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio.Tenho preferência e atualmente estudo Java, mas sou apaixonado por tudo que envolve tecnologia.Gosto de explorar diferentes áreas da TI, desde desenvolvimento de software até infraestrutura, cybersecurity, DevOps e computação em geral. Estou sempre buscando aprender coisas novas e expandir meu conhecimento dentro do universo da tecnologia.
+### Hey!
 
+👾 Sou **Marcos**.
+
+🦀 Um jovem estudante amante da tecnologia com uma profunda paixão por Java e Literatura.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio.Tenho preferência e atualmente estudo Java, mas sou apaixonado por tudo que envolve tecnologia.Gosto de explorar diferentes áreas da TI, desde desenvolvimento de software até infraestrutura, cybersecurity, DevOps e computação em geral. Estou sempre buscando aprender coisas novas e expandir meu conhecimento dentro do universo da tecnologia.
 
 ---
 
@@ -46,23 +62,3 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio.Tenho prefe
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
-<br/>
-<br/>
-
-## 📊 Estatísticas
-
- <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=00Eden&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-/>
-
-  <img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Eden=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
