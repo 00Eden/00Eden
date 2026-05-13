@@ -28,6 +28,15 @@
 
 <img
     align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+/>
+
+<img
+    align="left"
     alt="Python"
     title="Python"
     width="30px"
@@ -61,3 +70,7 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
+<br>
+<br>
+<br>
