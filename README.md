@@ -1,76 +1,38 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+# Marcos Davi
+
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End.
+
+Tenho direcionado meus estudos e projetos para construção de APIs REST, banco de dados relacional, lógica de programação e boas práticas de desenvolvimento. Trabalho com C, Java, Spring Boot, SQL, MySQL, Git e Python, buscando transformar estudo em projeto real, com código organizado e base sólida para ambiente profissional.
+
+## Sobre mim
+
+- Cursando Análise e Desenvolvimento de Sistemas
+- Foco em Back-End
+- Desenvolvimento de APIs REST com Java e Spring Boot
+- Modelagem e consulta de dados com SQL e MySQL
+- Versionamento de código com Git
+- Estudo de Python para lógica, automação e apoio no aprendizado técnico
+
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="35" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
 
-### Hey!
+## O que estou construindo
 
-👾 Sou **Marcos**.
+Meu objetivo é evoluir como desenvolvedor Back-End, dominando a construção de sistemas com boa estrutura, banco de dados bem modelado, APIs bem definidas e código legível.
 
-🦀 Um jovem estudante amante da tecnologia com uma profunda paixão por Java e Literatura.
+## Contato
 
-
-
+LinkedIn: [https://www.linkedin.com/in/marcosdavidev/]
 <br>
+GitHub: [https://github.com/00Eden]
 <br>
-<br>
-<br>
-<br>
-<br>
-
----
-
-### Tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio.Tenho preferência e atualmente estudo Java, mas sou apaixonado por tudo que envolve tecnologia.Gosto de explorar diferentes áreas da TI, desde desenvolvimento de software até infraestrutura, cybersecurity, DevOps e computação em geral. Estou sempre buscando aprender coisas novas e expandir meu conhecimento dentro do universo da tecnologia.
-
----
-
-## 🤖 Linguagens e Tecnologias
-
-
-<img
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
-/>
-
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Spring Boot"
-    title="Spring Boot"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<br>
-<br>
-<br>
+Email: [marcosdv2006@gmail.com]
