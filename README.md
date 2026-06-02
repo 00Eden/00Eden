@@ -31,8 +31,8 @@ Meu objetivo é evoluir como desenvolvedor Back-End, dominando a construção de
 
 ## Contato
 
-LinkedIn: [https://www.linkedin.com/in/marcosdavidev/]
+LinkedIn: [https://linkedin.com/in/marcosdavidev/]
 <br>
-GitHub: [https://github.com/00Eden]
+GitHub: [https://github.com/marcosddev]
 <br>
 Email: [marcosdv2006@gmail.com]
