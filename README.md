@@ -40,7 +40,7 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Linguagens e ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,vscode,github,git,pycharm,eclipse" /><br>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,vscode,github,git,pycharm,eclipse,docker" /><br>
   <img src="https://skillicons.dev/icons?i=linux,bash,arch,python,mysql,postgres,vim,java,neovim,latex" /><br>
 </div>
 
