@@ -60,9 +60,11 @@
 <div align="center">
   <h3>⭐️ Repositórios Interessantes</h3>
   <p align="center">
+<a href="https://github.com/marcosddev/mdtech-ecommerce-api"><img src="https://gh-card.dev/repos/marcosddev/mdtech-ecommerce-api.svg" width="400"></a>
+<a href="https://github.com/marcosddev/budgeting-ai-spring"><img src="https://gh-card.dev/repos/marcosddev/budgeting-ai-spring.svg" width="400"></a>
+<a href="https://github.com/marcosddev/pedidos-api-spring-boot"><img src="https://gh-card.dev/repos/marcosddev/pedidos-api-spring-boot.svg" width="400"></a>
 <a href="https://github.com/marcosddev/ans-big-data-pyspark"><img src="https://gh-card.dev/repos/marcosddev/ans-big-data-pyspark.svg" width="400"></a>
 <a href="https://github.com/marcosddev/CRUD-Java"><img src="https://gh-card.dev/repos/marcosddev/CRUD-Java.svg" width="400"></a>
-<a href="https://github.com/marcosddev/ats-curriculum-analyzer"><img src="https://gh-card.dev/repos/marcosddev/ats-curriculum-analyzer.svg" width="400"></a>
 </div>
 
 
